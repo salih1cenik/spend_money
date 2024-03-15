@@ -1,0 +1,52 @@
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+  width: 300px;
+  display: inline-block;
+  background-color: #f9f9f9;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.price {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #007bff;
+}
+
+.cardControl {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

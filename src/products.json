@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Big Mac",
+    "fiyat": "2",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  },
+  {
+    "id": "2",
+    "name": "Flip Flops",
+    "fiyat": "3",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  },
+  {
+    "id": "3",
+    "name": "Coca-Cola Pack",
+    "fiyat": "5",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  },
+  {
+    "id": "4",
+    "name": "Desktop PC",
+    "fiyat": "500",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  },
+  {
+    "id": "5",
+    "name": "UFO",
+    "fiyat": "1000",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  },
+  {
+    "id": "6",
+    "name": "Skyscraper",
+    "fiyat": "850000000",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  },
+  {
+    "id": "7",
+    "name": "Cruise Ship",
+    "fiyat": "930000000",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  },
+  {
+    "id": "8",
+    "name": "NBA Team",
+    "fiyat": "2120000000",
+    "image": "https://via.placeholder.com/300x300/999/CCC"
+  }
+]
